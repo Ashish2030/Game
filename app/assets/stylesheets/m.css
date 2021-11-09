@@ -114,7 +114,7 @@ body{
     text-align: center;
     cursor: default;
     user-select: none;
-    /*transition: all 0.3 ease;*/
+    transition: all 0.3 ease;
 }
 .players.active span:first-child{
     color: #fff;
